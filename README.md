@@ -4,8 +4,8 @@ This repository contains GeoJSON files for study areas.
 
 ## Files
 
-- [North Study Areas](https://yourusername.github.io/geojson-repo/north_study_areas_07nov23.geojson)
-- [South Study Areas](https://yourusername.github.io/geojson-repo/south_study_areas_07nov23.geojson)
+- [North Study Areas](https://grabacr.github.io/GeoJSON/north_study_areas_07nov23.geojson)
+- [South Study Areas](https://grabacr.github.io/GeoJSON/south_study_areas_07nov23.geojson)
 
 ## How to Use
 
